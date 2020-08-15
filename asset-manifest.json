@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bookkeeper-1-website/static/css/main.59a1bd8c.chunk.css",
+    "main.js": "/bookkeeper-1-website/static/js/main.f0bac8b7.chunk.js",
+    "main.js.map": "/bookkeeper-1-website/static/js/main.f0bac8b7.chunk.js.map",
+    "runtime-main.js": "/bookkeeper-1-website/static/js/runtime-main.9ba9183d.js",
+    "runtime-main.js.map": "/bookkeeper-1-website/static/js/runtime-main.9ba9183d.js.map",
+    "static/js/2.cfb4b621.chunk.js": "/bookkeeper-1-website/static/js/2.cfb4b621.chunk.js",
+    "static/js/2.cfb4b621.chunk.js.map": "/bookkeeper-1-website/static/js/2.cfb4b621.chunk.js.map",
+    "index.html": "/bookkeeper-1-website/index.html",
+    "precache-manifest.9e568a6ac68fa334cac8d05cc6c00aea.js": "/bookkeeper-1-website/precache-manifest.9e568a6ac68fa334cac8d05cc6c00aea.js",
+    "service-worker.js": "/bookkeeper-1-website/service-worker.js",
+    "static/css/main.59a1bd8c.chunk.css.map": "/bookkeeper-1-website/static/css/main.59a1bd8c.chunk.css.map",
+    "static/js/2.cfb4b621.chunk.js.LICENSE.txt": "/bookkeeper-1-website/static/js/2.cfb4b621.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ba9183d.js",
+    "static/js/2.cfb4b621.chunk.js",
+    "static/css/main.59a1bd8c.chunk.css",
+    "static/js/main.f0bac8b7.chunk.js"
+  ]
+}
